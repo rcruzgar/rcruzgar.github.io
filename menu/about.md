@@ -19,7 +19,7 @@ I am currently a research scientist at the [Barcelona Supercomputing Center](htt
 * **MSc in Geophysics and Meteorology** - Universidad de Granada.
 * **BSc in Environmental Sciences** - Universidad de Murcia.
 
-Here is what I am up to [now]({{ site.github.url }}{% menu_url now %}).
+Here is what I am up to [now](now.html).
 
 
 
